@@ -1,8 +1,7 @@
 # NextJs_Collection_
 
 
-
-# Akshay K Chourasia ![Akshay's Profile Image](https://github.com/akshayChourasia.png)
+# Akshay K Chourasia
 
 - **Phone:** (+91) 9074748161
 - **Email:** [akshaychourasiacv@gmail.com](mailto:akshaychourasiacv@gmail.com)
